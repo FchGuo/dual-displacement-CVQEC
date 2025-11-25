@@ -4,7 +4,7 @@ Code implementation and simulation tools for the paper “A Concatenated Dual Di
 This repository contains the code used for two figures in the paper:
 
 - **Fig. 5 (miscorrection probability calculation)**  
-  Implemented in: `P_miscorrection_github.ipynb`
+  Implemented in: [P_miscorrection_github.ipynb](P_miscorrection_github.ipynb)
 
 - **Fig. 6 (Monte Carlo simulation results)**  
-  Implemented in: `residual_shift_github.ipynb`
+  Implemented in: [residual_shift_github.ipynb](residual_shift_github.ipynb)
